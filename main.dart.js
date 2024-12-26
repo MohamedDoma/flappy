@@ -29003,7 +29003,7 @@ m.pL(q.gbz().ok.at.gE().a[0])
 m.Z()
 p=q.gbz().ok.at.gE().a[1]-110
 m=q.k4
-o=100+m.D9()*(p/4)
+o=160+m.D9()*(p/4)
 n=o+m.D9()*(p-o)
 m=o/2
 q.H(0,A.a([A.a_d(n-m,B.zJ),A.a_d(p-(n+m),B.zK)],t.po))
